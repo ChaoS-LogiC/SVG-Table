@@ -1,2 +1,2 @@
-# SVG-Table
-Tables
+# SVG-Tables
+Очень простые и мало весящие svg таблицы

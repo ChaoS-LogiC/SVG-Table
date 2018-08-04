@@ -2,9 +2,7 @@
 
 Легковестные SVG таблицы
 
-### [Текущая версия] (https://github.com/constlab/cartonbox/releases/latest) 1.5.4
-
-17 февраля 2017 года ([история версий] (https://github.com/ChaoS-LogiC/SVG-Table/releases))
+### Текущая версия (https://github.com/ChaoS-LogiC/SVG-Table/releases)
 
 ## Быстрый старт
 

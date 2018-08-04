@@ -10,7 +10,6 @@
 ```
 <div>
 <svg width="100%" height="100%" viewBox="0 0 370 160">
-<title>Tables</title>
 
 <g id='rowGroup' transform='translate(0, 0)' role="table">
 <rect x='25' y='40' width='310' height='20' fill='gainsboro'/>
